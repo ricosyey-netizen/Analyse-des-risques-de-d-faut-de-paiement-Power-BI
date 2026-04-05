@@ -1,0 +1,2 @@
+# Analyse-des-risques-de-d-faut-de-paiement-Power-BI
+Ce projet analyse un portefeuille de 1000 demandes de crédit bancaire (German Credit Dataset). L'objectif est d'identifier les  profils d'emprunteurs à risque et de fournir des recommandations pour optimiser la politique d'octroi de crédits.Cartes KPI Âge moyen des emprunteurs  Montant total des crédits Nombre de clients  Durée moyenne des  Credits
